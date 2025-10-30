@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on Probabilistic ML Lab</title>
-    <link>https://songkuk.github.io/members/</link>
+    <link>//localhost:1313/members/</link>
     <description>Recent content in Members on Probabilistic ML Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://songkuk.github.io/members/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/members/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2_Ahyoung Oh</title>
-      <link>https://songkuk.github.io/members/ahyoung/</link>
+      <link>//localhost:1313/members/ahyoung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://songkuk.github.io/members/ahyoung/</guid>
+      <guid>//localhost:1313/members/ahyoung/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2_Hanju Yoo</title>
-      <link>https://songkuk.github.io/members/hanju/</link>
+      <link>//localhost:1313/members/hanju/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://songkuk.github.io/members/hanju/</guid>
+      <guid>//localhost:1313/members/hanju/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2_Jaewoong Choi</title>
-      <link>https://songkuk.github.io/members/jaewoong/</link>
+      <link>//localhost:1313/members/jaewoong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://songkuk.github.io/members/jaewoong/</guid>
+      <guid>//localhost:1313/members/jaewoong/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2_Juyeop Kim</title>
-      <link>https://songkuk.github.io/members/juyeop/</link>
+      <link>//localhost:1313/members/juyeop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://songkuk.github.io/members/juyeop/</guid>
+      <guid>//localhost:1313/members/juyeop/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2_Kichang Lee</title>
-      <link>https://songkuk.github.io/members/kichang/</link>
+      <link>//localhost:1313/members/kichang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://songkuk.github.io/members/kichang/</guid>
+      <guid>//localhost:1313/members/kichang/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2_Seung Hyuk Lee</title>
-      <link>https://songkuk.github.io/members/seunghyuk/</link>
+      <link>//localhost:1313/members/seunghyuk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://songkuk.github.io/members/seunghyuk/</guid>
+      <guid>//localhost:1313/members/seunghyuk/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2_Wonseok Shin</title>
-      <link>https://songkuk.github.io/members/wonseok/</link>
+      <link>//localhost:1313/members/wonseok/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://songkuk.github.io/members/wonseok/</guid>
+      <guid>//localhost:1313/members/wonseok/</guid>
       <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
   </channel>
